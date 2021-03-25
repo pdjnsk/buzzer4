@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "teacher-reference:-fixing-bugs",
+    "slug": "snack-870d1c98-3f54-4a6f-9d63-ef6bfb7bb0a2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.testuser.weatherapp"
+    },
+    "android": {
+      
+         
+        "package": "com.testuser.weatherapp"
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
